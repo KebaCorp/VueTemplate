@@ -1,16 +1,8 @@
 {
-  "name": "vuetemplate",
+  "name": "AbekNarynov",
   "version": "0.1.0",
-  "revision": "20190310",
-  "description": "vuetemplate",
-  "contributors": [
-    {
-      "name": "Abek Narynov",
-      "email": "vhkeba@gmail.com",
-      "url": "http://abeknarynov.ru/"
-    }
-  ],
   "private": true,
+  "description": "Abek Narynov's personal site",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -21,6 +13,7 @@
   "dependencies": {
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.6",
+    "vue-i18n": "^8.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
@@ -40,6 +33,15 @@
     "fibers": "^3.1.1",
     "sass": "^1.17.2",
     "sass-loader": "^7.1.0",
+    "vue-cli-plugin-i18n": "^0.5.2",
     "vue-template-compiler": "^2.5.21"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Abek Narynov",
+      "email": "vhkeba@gmail.com",
+      "url": "http://abeknarynov.ru/"
+    }
+  ],
+  "revision": "20190310"
 }
