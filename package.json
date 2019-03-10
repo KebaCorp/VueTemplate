@@ -1,6 +1,15 @@
 {
   "name": "vuetemplate",
   "version": "0.1.0",
+  "revision": "20190310",
+  "description": "vuetemplate",
+  "contributors": [
+    {
+      "name": "Abek Narynov",
+      "email": "vhkeba@gmail.com",
+      "url": "http://abeknarynov.ru/"
+    }
+  ],
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
